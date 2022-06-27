@@ -2,7 +2,6 @@
 - 👀 I’m interested in new and emerging technology.
 - 🌱 I’m currently learning Python, C++, HTML, CSS, Javascript...
 - 💞️ I’m looking to collaborate on anything that helps build my portofolio.
-- 📫 How to reach me ...
 
 <!---
 thisisasidequest/thisisasidequest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
